@@ -1,6 +1,6 @@
 
 
-#Credit Card Fraud Detection: ML Anomaly Detection Pipeline
+# Credit Card Fraud Detection: ML Anomaly Detection Pipeline
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdoulayeSeydi/fraud-detection-ml/blob/main/fraud_detection_analysis.ipynb)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
